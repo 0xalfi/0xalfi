@@ -8,23 +8,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-xecureyan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xecureyan/)](https://instagram.com/xecureyan)
 [![Youtube Badge](https://img.shields.io/badge/-SECUREYAN-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/SECUREYAN)](https://www.youtube.com/c/SECUREYAN)
 
-```python
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
+```C
+#include <stdio.h>
+#include <string.h>
 
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "Alfiyan"
-        self.role = "Security REsearcher"
-        self.language_spoken = ["in_ID", "en_US"]
+void introduce() { 
+printf ("Thanks for visiting, hope we can get to know each other"); 
+}
 
-    def say_hi(self):
-        print("Thanks for visitng, a place where programmers learn")
-
-me = SecurityResearcher()
-me.say_hi()
+int main() {
+    introduce();
+}
 ```
-
 
 ## ⚡ Technologies
 
@@ -34,7 +29,6 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=yant0x00&show_icons=true&theme=tokyonight) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yant0x00&theme=radical)
