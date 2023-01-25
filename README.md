@@ -2,7 +2,6 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yant0x00)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Medium Badge](https://img.shields.io/badge/-@xecureyan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@xecureyan/)](https://medium.com/@xecureyan)
 [![Linkedin Badge](https://img.shields.io/badge/-xecureyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xecureyan/)](https://www.linkedin.com/in/xecureyan/)
 [![Instagram Badge](https://img.shields.io/badge/-xecureyan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xecureyan/)](https://instagram.com/xecureyan)
