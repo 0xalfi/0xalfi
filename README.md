@@ -13,7 +13,6 @@
 #include <string.h>
 
 void introduce() { printf ("Thanks for visiting, hope we can get to know each other"); }
-
 int main() { introduce(); }
 ```
 
