@@ -8,14 +8,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-xecureyan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xecureyan/)](https://instagram.com/xecureyan)
 [![Youtube Badge](https://img.shields.io/badge/-SECUREYAN-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/SECUREYAN)](https://www.youtube.com/c/SECUREYAN)
 
-
 ```python
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-
 class SecurityResearcher:
-
     def __init__(self):
         self.name = "Alfiyan"
         self.role = "Security REsearcher"
@@ -24,14 +21,9 @@ class SecurityResearcher:
     def say_hi(self):
         print("Thanks for visitng, a place where programmers learn")
 
-
 me = SecurityResearcher()
 me.say_hi()
 ```
-
-## 🤖 Blogs & Social Media
-
-
 
 
 ## ⚡ Technologies
