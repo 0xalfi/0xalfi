@@ -24,5 +24,5 @@ int main() { introduce(); }
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=0xalfi&show_icons=true&theme=tokyonight) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xalfi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
