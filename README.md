@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-xecureyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xecureyan/)](https://www.linkedin.com/in/xecureyan/)
 [![Instagram Badge](https://img.shields.io/badge/-xecureyan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/xecureyan/)](https://instagram.com/xecureyan)
 [![Youtube Badge](https://img.shields.io/badge/-SECUREYAN-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/SECUREYAN)](https://www.youtube.com/c/SECUREYAN)
-![tryhackme stats](https://raw.githubusercontent.com/.Alfiyan/master/assets/thm_propic.png)
 
 ```C
 #include <stdio.h>
